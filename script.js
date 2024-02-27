@@ -73,10 +73,3 @@ $(document).ready(function(){
 });
 
 
-document.addEventListener
-("contextmenu", Function(e)
- {
-e.preventDefault()
-
-    
- }; false )
